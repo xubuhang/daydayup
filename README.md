@@ -1,4 +1,4 @@
-#### daydayup
+# DayDayUp笔记
 记录日常学习情况！
 
 ##Dome
